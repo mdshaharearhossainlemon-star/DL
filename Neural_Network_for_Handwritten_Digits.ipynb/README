@@ -1,1 +1,32 @@
 
+# 🧠 MNIST Neural Network Classification
+
+A simple Deep Learning project that classifies handwritten digits (0–9) using a Neural Network built with TensorFlow and Keras.
+
+## Features
+- MNIST dataset
+- Data normalization
+- Feedforward Neural Network
+- Softmax classification
+- Model evaluation
+- Confusion Matrix visualization
+
+##  Technologies
+- Python
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+- Seaborn
+
+##  Results
+- High classification accuracy on the MNIST test dataset.
+- Performance evaluated using a Confusion Matrix.
+
+## Run
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
+
+##  Author
+**Md Shaharear Hossain Lemon**
